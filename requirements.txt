@@ -1,6 +1,7 @@
 gradio
-numpy>=1.22,<=1.24.3
-tensorflow>=2.12,<2.14
+numpy==1.21.6
+tensorflow==2.9.2
+keras==2.9.0
 opencv-python-headless
 Pillow>=9.0.0
 scikit-learn
